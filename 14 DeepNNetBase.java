@@ -128,6 +128,7 @@ public class DeepNNet
 					delta[layer][j] += delta[layer+1][k] * weights[layer+1][j][k] * sigmoid[layer+1][j] * (1 - sigmoid[layer+1][j]);
 			}
 		}
+		
 		// adjust the weights
 		for(layer=0; layer<NET_DEPTH; layer++)
 		{
