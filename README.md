@@ -1,6 +1,6 @@
 ## Neural Networks Archive
 
-Please check out '14 DeepNNetBase.java' for the latest progress (DNN with variable width and depth).
+'14 DeepNNetBase.java' includes the latest progress: DNNs with variable width and depth.
 
 This repository is a collection of neural network structures I wrote and tested out of my pure interests since 2018. Some early versions are created for testing the maths, and the later ones are designed to be imported for other personal projects.
 
